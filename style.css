@@ -1,5 +1,13 @@
-body{
-    background-color: darkred;
+body {
+    background-color: rgb(155, 13, 13);
     font-family: BBH Sem Bogle;
     font-size: 25px;
+}
+
+header {
+    font-size: 52px;
+    text-align: center;
+    background-color: rgb(238, 124, 124);
+    color: black;
+    border-left: ;
 }
